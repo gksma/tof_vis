@@ -1,0 +1,37 @@
+[2.764s] Invoking command in '/home/ubuntu/tof_ws/src/vl53l8cx_publisher': PYTHONPATH=/home/ubuntu/tof_ws/build/vl53l8cx_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/tof_ws/install/vl53l8cx_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vl53l8cx_publisher build --build-base /home/ubuntu/tof_ws/build/vl53l8cx_publisher/build install --record /home/ubuntu/tof_ws/build/vl53l8cx_publisher/install.log --single-version-externally-managed install_data
+[3.756s] running egg_info
+[3.758s] creating ../../build/vl53l8cx_publisher/vl53l8cx_publisher.egg-info
+[3.758s] writing ../../build/vl53l8cx_publisher/vl53l8cx_publisher.egg-info/PKG-INFO
+[3.759s] writing dependency_links to ../../build/vl53l8cx_publisher/vl53l8cx_publisher.egg-info/dependency_links.txt
+[3.760s] writing entry points to ../../build/vl53l8cx_publisher/vl53l8cx_publisher.egg-info/entry_points.txt
+[3.760s] writing requirements to ../../build/vl53l8cx_publisher/vl53l8cx_publisher.egg-info/requires.txt
+[3.761s] writing top-level names to ../../build/vl53l8cx_publisher/vl53l8cx_publisher.egg-info/top_level.txt
+[3.766s] writing manifest file '../../build/vl53l8cx_publisher/vl53l8cx_publisher.egg-info/SOURCES.txt'
+[3.887s] reading manifest file '../../build/vl53l8cx_publisher/vl53l8cx_publisher.egg-info/SOURCES.txt'
+[3.890s] writing manifest file '../../build/vl53l8cx_publisher/vl53l8cx_publisher.egg-info/SOURCES.txt'
+[3.890s] running build
+[3.891s] running build_py
+[3.891s] creating /home/ubuntu/tof_ws/build/vl53l8cx_publisher/build
+[3.892s] creating /home/ubuntu/tof_ws/build/vl53l8cx_publisher/build/lib
+[3.892s] creating /home/ubuntu/tof_ws/build/vl53l8cx_publisher/build/lib/vl53l8cx_publisher
+[3.892s] copying vl53l8cx_publisher/vl53l8cx_node.py -> /home/ubuntu/tof_ws/build/vl53l8cx_publisher/build/lib/vl53l8cx_publisher
+[3.893s] copying vl53l8cx_publisher/__init__.py -> /home/ubuntu/tof_ws/build/vl53l8cx_publisher/build/lib/vl53l8cx_publisher
+[3.893s] running install
+[3.897s] running install_lib
+[3.900s] creating /home/ubuntu/tof_ws/install/vl53l8cx_publisher/lib/python3.8/site-packages/vl53l8cx_publisher
+[3.901s] copying /home/ubuntu/tof_ws/build/vl53l8cx_publisher/build/lib/vl53l8cx_publisher/vl53l8cx_node.py -> /home/ubuntu/tof_ws/install/vl53l8cx_publisher/lib/python3.8/site-packages/vl53l8cx_publisher
+[3.901s] copying /home/ubuntu/tof_ws/build/vl53l8cx_publisher/build/lib/vl53l8cx_publisher/__init__.py -> /home/ubuntu/tof_ws/install/vl53l8cx_publisher/lib/python3.8/site-packages/vl53l8cx_publisher
+[3.904s] byte-compiling /home/ubuntu/tof_ws/install/vl53l8cx_publisher/lib/python3.8/site-packages/vl53l8cx_publisher/vl53l8cx_node.py to vl53l8cx_node.cpython-38.pyc
+[3.910s] byte-compiling /home/ubuntu/tof_ws/install/vl53l8cx_publisher/lib/python3.8/site-packages/vl53l8cx_publisher/__init__.py to __init__.cpython-38.pyc
+[3.911s] running install_data
+[3.912s] creating /home/ubuntu/tof_ws/install/vl53l8cx_publisher/share/ament_index
+[3.912s] creating /home/ubuntu/tof_ws/install/vl53l8cx_publisher/share/ament_index/resource_index
+[3.912s] creating /home/ubuntu/tof_ws/install/vl53l8cx_publisher/share/ament_index/resource_index/packages
+[3.913s] copying resource/vl53l8cx_publisher -> /home/ubuntu/tof_ws/install/vl53l8cx_publisher/share/ament_index/resource_index/packages
+[3.913s] copying package.xml -> /home/ubuntu/tof_ws/install/vl53l8cx_publisher/share/vl53l8cx_publisher
+[3.913s] running install_egg_info
+[3.919s] Copying ../../build/vl53l8cx_publisher/vl53l8cx_publisher.egg-info to /home/ubuntu/tof_ws/install/vl53l8cx_publisher/lib/python3.8/site-packages/vl53l8cx_publisher-0.0.0-py3.8.egg-info
+[3.924s] running install_scripts
+[3.986s] Installing vl53l8cx_node script to /home/ubuntu/tof_ws/install/vl53l8cx_publisher/lib/vl53l8cx_publisher
+[3.987s] writing list of installed files to '/home/ubuntu/tof_ws/build/vl53l8cx_publisher/install.log'
+[4.080s] Invoked command in '/home/ubuntu/tof_ws/src/vl53l8cx_publisher' returned '0': PYTHONPATH=/home/ubuntu/tof_ws/build/vl53l8cx_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/tof_ws/install/vl53l8cx_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vl53l8cx_publisher build --build-base /home/ubuntu/tof_ws/build/vl53l8cx_publisher/build install --record /home/ubuntu/tof_ws/build/vl53l8cx_publisher/install.log --single-version-externally-managed install_data
