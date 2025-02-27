@@ -1,3 +1,0 @@
-[console_scripts]
-vl53l8cx_node = vl53l8cx_publisher.vl53l8cx_node:main
-

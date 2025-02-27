@@ -49,7 +49,7 @@ class VL53L8CXPublisher(Node):
                 if self.fail_count >= 3:
                     self.get_logger().error("Failed to get TOF data 3 times, reinitializing sensor...")
                     self.sensor._initialize_driver()
-                    time.sleep(0.5)  # 안정화를 위해 0.5초 대기
+                    # time.sleep(0.5)  # 안정화를 위해 0.5초 대기
                     self.fail_count = 0
                 return None
 
